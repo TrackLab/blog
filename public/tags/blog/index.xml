@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Terminal</title>
+    <link>//localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Blog, in 2025</title>
+      <link>//localhost:1313/posts/a-blog-in-2025/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/a-blog-in-2025/</guid>
+      <description>&lt;p&gt;When hearing the word &lt;strong&gt;Blog&lt;/strong&gt;, many will think of something old.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Blog, that used to be something on the old internet&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;That is sort of right, in the end. A lot of people used to have a Blog. But then social media sites came along, and gave everyone their own profile. A miniature Blog, you could say. That can be seen by anyone on that Platform as well. The Appeal is certainly there.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
